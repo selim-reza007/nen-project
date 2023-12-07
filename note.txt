@@ -1,0 +1,6 @@
+fonts: 
+1. roboto -- 500 
+2. Nunito -- 700 done
+3. Open Sans -- 400, 600, 700  done
+4. Rajdhani -- 700, 600 done
+5. Montserrat -- 500 done
